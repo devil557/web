@@ -1,2 +1,4 @@
 // Simple Hello World in JavaScript
-console.log("Hello, World!");
+const greet = () => console.log("Hello, World!");
+
+greet();
