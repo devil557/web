@@ -1,2 +1,6 @@
-// Simple Hello World in JavaScript
-console.log("Hello, World!");
+// A simple program to display a greeting message
+function displayGreeting() {
+    console.log("Hello, World!");
+}
+
+displayGreeting();
