@@ -11,6 +11,11 @@ This is a simple HTML web page.
   - Add a product demo with price and discount.
   - Include a dummy review about the product.
 
+#### Additional Instructions for `index.html`
+
+- **Instruction:** Rewrite code to add company name.
+- **Title Update:** Include "Jack Cosmic" in the title.
+
 ### For `README.md`
 
 - **Objective:** Enhance markdown formatting.
